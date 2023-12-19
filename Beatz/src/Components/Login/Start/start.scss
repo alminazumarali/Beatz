@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+.login-main1{
+    font-family: 'Poppins', sans-serif;
+    overflow: hidden;
+    height:500px;
+    width:500px;
+    border-radius: 50%;
+    display: flex;
+    flex-direction: column;
+    gap:30px;
+    justify-content: center;
+    align-items: center;
+    flex:1;
+    background:linear-gradient(135deg,rgba(255,255,255,0.1),rgba(255,255,255,0));
+    backdrop-filter:blur(10px);
+    -webkit-backdrop-filter:blur(10px);
+    border:1px solid rgba(255,255,255,0.18);
+    box-shadow:0 8px 32px 0 rgba(0,0,0,0.37)
+}
+.text-login{
+    font-size: 50px;
+    font-weight: bold;
+    color:white;
+}
+.button-login{
+    font-size:20px;
+    padding:15px;
+    width:120px;
+    border-radius: 50px;
+    border-style: none;
+    margin-right: 5px;
+}
+// section{
+//     flex-direction: column;
+//     justify-content: center;
+//     align-items: center;
+//     height:100vh;
+//     background: linear-gradient(to bottom,#f1f4f9,#dff1ff);
+// }
+// section .color{
+//     position: absolute;
+//     filter:blur(150px)
+// }
+// section .color:nth-child(1)
+// {
+//     top:-350px;
+//     width:900px;
+//     height:600px;
+//     background:#99ff6c
+// }
+// section .color:nth-child(2)
+// {
+//     bottom:-300px;
+//     left:950px;
+//     width:500px;
+//     height:800px;
+//     background:#c9ff98;
+// }
+// section .color:nth-child(3)
+// {
+//     bottom:-300px;
+//     right:30px;
+//     width:500px;
+//     height:600px;
+//     background:#efffdd;
+// }
+
+
+
+
+
+

@@ -1,0 +1,13 @@
+.lib-title{
+    font-size:50px;
+    font-weight:bold; 
+}
+.lib-content{
+    // background-color: aqua;
+    padding:20px;
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    overflow: hidden;
+    grid-gap:10px;
+}
